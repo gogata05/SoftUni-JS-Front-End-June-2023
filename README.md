@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/sbhrI5Q.png" alt="Certificate"/>
+<img src="https://i.imgur.com/sbhrI5Q.png" alt="Certificate"/> 
 
 ### 📚 JS Front-End
 
