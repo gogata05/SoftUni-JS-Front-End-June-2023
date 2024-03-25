@@ -5,7 +5,7 @@
 ### 🎓 Course Link - [Here](https://softuni.bg/trainings/4113/js-front-end-june-2023)
 
 Welcome to the JS Front-End course repository! In this course, participants will gain fundamental knowledge of the JavaScript language, covering syntax basics, working with arrays, matrices, objects, classes, and writing functions. The course will develop algorithmic thinking and enable participants to work with the DOM tree, perform manipulations on it, and handle events. Both functional and Object-Oriented Programming (OOP) approaches to JavaScript programming will be covered. Concepts related to data transmission through HTTP and REST will also be explored.
-
+ 
 #### About the Course
 
 The "JS Front-End" course provides participants with essential knowledge of the JavaScript language, covering syntax basics, working with arrays, matrices, objects, classes, and writing functions. The course will develop algorithmic thinking and enable participants to work with the DOM tree, perform manipulations on it, and handle events. Both functional and Object-Oriented Programming (OOP) approaches to JavaScript programming will be covered. Concepts related to data transmission through HTTP and REST will also be explored.
